@@ -1,5 +1,5 @@
 ---
-  title: "PhD project: Useful excel worksheets"
+title: "PhD project: Useful excel worksheets"
 date: '2020-07-05'
 excerpt: excel, models
 output: pdf_document

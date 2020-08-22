@@ -20,10 +20,10 @@ taxonomy: resources
   
 <ul>The current available datasets include:</ul>
   
-<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/AFC_FC_model_WDS.xlsx" download>Collation: Basalts and chills</a></li>
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/AFC_FC_model_WDS.xlsx" download>FC and AFC trace element models</a></li>
 
-<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/StaceyKramers_WDS.xlsx" download>Collation: Basalts and chills</a></li>
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/StaceyKramers_WDS.xlsx" download>Stacey and Kramers two-stage model</a></li>
 
-<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideEvolution_WDS.xlsx" download>Collation: Basalts and chills</a></li>
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideEvolution_WDS.xlsx" download>R, N, and multi-stage dissolution sulphide upgrading model</a></li>
 
-<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideTenor_WDS.xlsx" download>Collation: Basalts and chills</a></li>
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideTenor_WDS.xlsx" download>Calculation of sulphide metal contents</a></li>

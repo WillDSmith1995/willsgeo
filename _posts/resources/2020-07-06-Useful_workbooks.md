@@ -16,7 +16,7 @@ taxonomy: resources
   
 ## Useful excel workbooks for download.
   
-<ul>The collection of excel workbooks I have build, reconstructed, and used as part of my studies in Earth Science. Please download, use, and edit at your own volition.</ul>
+<ul>The collection of excel workbooks I have built, reconstructed, and used as part of my studies in Earth Science. Please download, use, and edit at your own volition.</ul>
   
 <ul>The current available datasets include:</ul>
   

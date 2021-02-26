@@ -13,11 +13,11 @@ category: blog
 taxonomy: blog
 ---
 
-<ul>The World needs resources. That will not change in the forseeable future. What we can change however, is the way in which we find and exploit these resources. It is hypothesised that many of Earth's 'easy-to-reach' resources have been depleted, which is forcing exploration geologists to search in more remote parts of the World and dig deeper than we ever have before.</ul>
+<ul>The world needs resources. That will not change in the forseeable future. What we can change, however, is the way in which we find and exploit these resources. It is hypothesised that many of Earth's 'easy-to-reach' resources have been found, thus forcing exploration geologists to search in more remote parts of the world and dig deeper than we ever have before.</ul>
 
 <ul>The concept of <emph>mining</emph> or <emph>exploitation</emph> is villainised in the media and shackled to negative connotations by the general public. The reality is that we use an all manner of mined resources in our day-to-day life, and that isn't about to change whether we like it or not. That being said, sustainability is at the heart of the modern mining ethos. If new resources are becomming more difficult to find, we are left with two options: (1) make more out of the resources we have or (2) get better at looking for new ones.</ul>
 
-<ul>Many junior exploration companies, that is those boots-on-the-ground teams of exploration geologists, are tasked with searching and characterising new mining opportunities. These companies often specialise in a specific commodity, since different commodities concentration in completely different geological and geographical environments. I spent some time working with junior exploration company Northern Shield Resources (Ottawa, Canada) as part of my ongoing PhD project, doing my part in the hunt for new nickel, copper, and platinum group element resrouces. This hunt would take me up to the Labrador Trough in northern Quebec, a remote part of NE Canada, occupied by small, local inuit and native american communities.</ul>
+<ul>Many junior exploration companies, that is those boots-on-the-ground teams of exploration geologists, are tasked with searching and characterising new mining opportunities. These companies often specialise in a specific commodity, since different commodities concentrate in completely different geological and geographical environments. I spent some time working with junior exploration company Northern Shield Resources (Ottawa, Canada) as part of my PhD project, doing my part in the hunt for new nickel, copper, and platinum group element resrouces. This hunt would take me up to the Labrador Trough in northern Quebec, a remote part of north-east Canada, occupied by small, local inuit and native american communities.</ul>
 
 <figure>
   <img src="ott1.jpg" alt="Labrador Image" style="width:100%">
@@ -26,7 +26,7 @@ taxonomy: blog
 
 # Working in Ottawa, Canada
 
-<ul> Ottawa is a special city. My first impression is that it is very clean, friendly, and filled to the brim with coffee shops. The city is perhaps best known for its majestic parliamentary buildings and ByWard Market. ByWard Market is a lively outdoor market with an assortment of stalls offering Canadian delicacies and ornaments. The stalls are embedded in a highstreet of taverns and bars, coated with colourful street art, and live music wafts through the area. I encourage anyone visiting this area to grab a BeaverTail, which are essentially dried dough pastries covered with any sweet treat you like!</ul>
+<ul> Ottawa is a special city. My first impression is that it is very clean, friendly, and filled to the brim with coffee shops. The city is perhaps best known for its majestic parliamentary buildings and buzzing ByWard Market. ByWard Market is a lively outdoor market with an assortment of stalls offering Canadian delicacies and ornaments. The stalls are embedded in a highstreet of taverns and bars, coated with colourful street art, and live music wafts through the area. I encourage anyone visiting this area to grab a BeaverTail, which are essentially dried dough pastries covered with any sweet treat you like!</ul>
 
 <figure>
   <img src="ott2.jpg" alt="Labrador Image" style="width:100%">
@@ -40,7 +40,7 @@ taxonomy: blog
   <figcaption>Fig.3 - Gatineau National Park.</figcaption>
 </figure>
 
-<ul>Despite working in a office in downtown Ottawa, the real work would be completed in the remote Labrador Trough. The region is home to a number of small indigenous communities, yet the majority of the area is untouched wilderness, that for over half the year, is completely submerged in snow and ice, with temperatures stopping below -40 degrees celcius. The majority of the area in inaccessible. To get to larger communities in the north, such as Kuujjuaq, you would take a seaplane or helicopter up to Ungava Bay. Alternatively, to reach the larger communities in the south, such as Schefferville, there is a railroad, or take a helicopter from Wabush.</ul>
+<ul>Despite working in a office in downtown Ottawa, the real work would be completed in the remote Labrador Trough. The region is home to a number of small indigenous communities, yet the majority of the area is untouched wilderness, that for over half the year, is completely submerged in snow and ice, with temperatures stooping below -40 degrees celcius. The majority of the area in inaccessible. To get to larger communities in the north, such as Kuujjuaq, you would take a seaplane or helicopter up to Ungava Bay. Alternatively, to reach the larger communities in the south, such as Schefferville, there is a railroad, or take a helicopter from Wabush.</ul>
 
 # Into the wilderness
 
@@ -49,7 +49,7 @@ taxonomy: blog
   <figcaption>Fig.4 - Downtown Ottawa.</figcaption>
 </figure>
 
-<ul> The sights when flying a helicopter over virtually untouched landscape is pretty amazing - it is so empty! The landscape is filled with lakes, interconnected by spectacular meandering rivers (sometimes blocked by beaver dams!), and bounded by sandy snakes which are remnents of sub-glacial rivers known as esker deposits. In contrast, we also see evidence for forest fires that have swept through several kilometres squared. The indigeneous communities always occur in proximity to a river, and are encapsulated in a tree-free periphery to stop forrest fires raging through their community. The area was once famous for Caribou hunting which bought all manner to wealth to the region. So much so, that Queen Elizabeth herself visted Schefferville during her tour of Canada in 1959! However, there is little Caribou left in the region now, which is now perhaps best known for its fishing.</ul>
+<ul> The sights when flying a helicopter over virtually untouched landscape is pretty amazing - it is so empty, but so full! The landscape is filled with lakes, interconnected by spectacular meandering rivers (sometimes blocked by beaver dams!), and bounded by sandy snakes which are remnents of sub-glacial rivers known as esker deposits. In contrast, we also see evidence for forest fires that have swept through several kilometres squared. The indigeneous communities always close to rivers and are encapsulated in a tree-free periphery to stop forrest fires raging through their community. The area was once famous for Caribou hunting which bought all manner to wealth to the region. So much so, that Queen Elizabeth herself visted Schefferville during her tour of Canada in 1959! However, there is little Caribou left in the region now, which is now perhaps best known for its fishing.</ul>
 
 <figure>
   <img src="landscape3.jpg" alt="Labrador Image" style="width:100%">
@@ -61,7 +61,7 @@ taxonomy: blog
   <figcaption>Fig.6 - Forest fire.</figcaption>
 </figure>
 
-<ul> There are a few essentials for working or visiting the Labrador Trough: (1) a survival kit - basic essentials like first aid and a pocket knife, but also things like a satphone, extra clothes, food, hydration packs should definitely be brought along, (2) a bug net and bug spray WITH deet - now I cannot begin to put in words how many flies there ara so I put it in a picture! (3) bear spray with flares or 'bear bangers' basically to deter bears that perhaps get a little too interested in you.</ul>
+<ul> There are a few essentials for working or visiting the Labrador Trough: (1) a survival kit - basic essentials like first aid and a pocket knife, but also things like a satphone, extra clothes, food, hydration packs should definitely be brought along; (2) a bug net and bug spray WITH deet - now I cannot begin to put in words how many flies there ara so I put it in a picture; (3) bear spray with flares or 'bear bangers' basically to deter bears that perhaps get a little too interested in you.</ul>
 
 <figure>
   <img src="bear.jpg" alt="Labrador Image" style="width:100%">
@@ -74,7 +74,7 @@ taxonomy: blog
 </figure>
 
 
-<ul> Before setting off to grab some rocks, we stopped off at a former mining camp that was occupied by a few geologists and drillers during a drilling programme. In terrain like this, drilling is often completed in winter where the ground is frozen and easier to drill. This means those living there are sleeping and working in the freezing cold, which is definitely not a job for the faint-hearted. Small heated containers were air-dropped in to be slept in and to log drill core! It has since been abandoned until the next phase of exploration. However, the camp had been occupied during its abandonment - a local bear had broken into the tool shed and ripped open a paint can that had exploded against a back wall of the shed - if you see a yellow bear, you'll know what happened to them!</ul>
+<ul> Before setting off to grab some rocks, we stopped off at a former mining camp that was occupied by a few geologists and drillers during a drilling programme. In terrain like this, drilling is often completed in winter where the ground is frozen and easier to drill. This means those living there are sleeping and working in the freezing cold, which is definitely not a job for the faint-hearted. Small heated containers were air-dropped in to be slept and worked in! It has since been abandoned until the next phase of exploration. However, the camp had been occupied during its abandonment - a local bear had broken into the tool shed and ripped open a paint can that had exploded against a back wall of the shed - if you see a yellow bear, you'll know what happened to them!</ul>
 
 <figure>
   <img src="camp2.jpg" alt="Labrador Image" style="width:100%">
@@ -97,14 +97,14 @@ taxonomy: blog
   <figcaption>Fig.11 - Terrain of the Montagnais Sill Complex.</figcaption>
 </figure>
 
-<ul>The Montagnais Sill Complex is considered prospective for these resources for a number of reasons. Firstly, voluminous mafic-ultramafic rocks that occur in close proximity to a craton margin (Superior craton in this case) and trans-crustal faults are often fertile for these resources. Secondly, it is thought that the igneous rocks here are genetically related to those that occur elsewhere around in the Superior craton, in what is known as the Circum-Superior large igneous province. Other igneous rocks that line the exterior of this craton are home to the world-class Raglan and Thompson Ni belt occurrences, so where are the same resources in the Montagnais Sill Complex? Thirdly, crustal sulphur is in no short supply in the Labrador Trough, which itself hosts a number of sedimentary exhalative occurrences. The presence of crustal sulphur is considered to be an important factor for magmatic ore formation in these settings, because ingestion of crustal sulphur by a magma may push it closer to forming sulphide ore which can accumulate into an ore deposit.</ul>
+<ul>The Montagnais Sill Complex is considered prospective for these resources for a number of reasons. Firstly, voluminous mafic-ultramafic rocks that occur in close proximity to a craton margin (Superior craton in this case) and trans-crustal faults are often fertile for these resources. Secondly, it is thought that the igneous rocks here are genetically related to those that occur elsewhere around the Superior craton, in what is known as the Circum-Superior large igneous province. Other igneous rocks that line the exterior of this craton are home to the world-class Cape Smith and Thompson belt occurrences, so where are the same resources in the Montagnais Sill Complex? Thirdly, crustal sulphur is in no short supply in the Labrador Trough; the presence of crustal sulphur is considered to be an important factor for magmatic sulphide formation. This is because the assimilation of crustal sulphur by a magma may push it to segregate a sulphide melt (in a manner much similar to oil droplets in water), which can cconcentrate to form an ore deposit.</ul>
 
 <figure>
   <img src="snowball.jpg" alt="Labrador Image" style="width:100%">
   <figcaption>Fig.12 - Glomeroporphyritic gabbros!</figcaption>
 </figure>
 
-<ul> The glomeroporphyritic gabbros of the Montagnais Sill Complex are probably the most spectacular rock type in the area. This extremely prominent rock is fairly rare on a global scale, but pretty abundant in the Labrador Trough. It is characterise by these large snowballs of plagioclase embedded in a fine-grained gabbroic groundmass. It is unfortunate the glomerocrysts themselves do not hammer out so easily! Other igneous rocks include aphyric and equigranular gabbros and gabbronorites, as well as aphyric ultramafic wehrlites and websterites. It is these latter rocks that are to be considered most prospective for sulphide ores.</ul>
+<ul> The glomeroporphyritic gabbros of the Montagnais Sill Complex are probably the most spectacular rock type in the area. This extremely prominent rock is fairly rare on a global scale, but pretty abundant in the Labrador Trough. It is characterised by these large snowballs of plagioclase embedded in a fine-grained gabbroic groundmass. It is unfortunate the glomerocrysts themselves do not hammer out so easily! Other igneous rocks include aphyric and equigranular gabbros and gabbronorites, as well as aphyric ultramafic wehrlites and websterites. It is these latter rocks that are to be considered most prospective for sulphide ores.</ul>
 
 <ul>See similar blog posts on my visit to Labrador and my PhD below!</ul>
 

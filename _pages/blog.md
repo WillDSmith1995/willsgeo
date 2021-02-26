@@ -9,4 +9,4 @@ header:
   image: "/images/view.jpg"
 ---
   
-A collection of posts on conferences, fieldwork, and subject matter.
+A collection of posts on conferences, fieldwork, and research stuff!

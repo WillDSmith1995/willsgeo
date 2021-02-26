@@ -7,7 +7,7 @@ header:
   image: "/images/nova.jpg"
 ---
 
-I am a geologist currently reading for a PhD in exploration geology at the [School of Earth and Ocean Sciences of Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/1010781-smith-william) in the UK. My research focusses on the formation of magmatic and hydromagmatic ore deposits, particularly magmatic Ni-Cu-PGE sulphide deposits and granite-related W-Sn-Cu deposits. 
+I am a geologist currently reading for a PhD in exploration geology at the [School of Earth and Environmental Sciences of Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/1010781-smith-william) in the UK. My research focusses on the formation of magmatic and hydromagmatic ore deposits, particularly magmatic Ni-Cu-PGE sulphide deposits and granite-related W-Sn-Cu deposits. 
 
 
 <details>
@@ -28,28 +28,27 @@ I am a geologist currently reading for a PhD in exploration geology at the [Scho
 <summary>Analytical Experience</summary>
 <ul> Modern research in Earth science requires a holistic and multi-scale approach to unanswered questions. I have been fortunate to work in academic and commercial laboratories and currently have experience in the following methods:</ul>
 <ul>
-<li> Transmitted and reflected microscopy </li>
-<li> Electron microscopy (FESEM & EPMA) </li>
-<li> Geochemical analysis (XRD, XRF, microXRF, pXRF, ICP-MS, LA-ICP-MS) </li>
-<li> Rock crushing and pulverising </li>
-<li> Isotope geochemistry (LA-ICP-MS, MC-ICP-MS, CA-ID-TIMS, SIMS) </li>
-<li> 3D computed tomography. </li>
+<li> Optical microscopy </li>
+<li> Electron microscopy (SEM-EDS, SEM-WDS, & EPMA) </li>
+<li> Geochemical analysis (XRD, XRF, ICP-MS, & LA-ICP-MS) </li>
+<li> Rock crushing and milling apparatus </li>
+<li> Isotope geochemistry (LA-ICP-MS, MC-ICP-MS, CA-ID-TIMS, & SIMS) </li>
 </ul>
 </details>
 
 <details>
 <summary>Education</summary>
-<ul> 2017-: PhD exploration geology at Cardiff University </ul>
-<ul> 2016-2017: MRes geochemistry at University of Portsmouth </ul>
-<ul> 2013-2016: BSc (hons) Geology at University of Portsmouth </ul>
-<ul> 2011-2013: A Levels at Callington Community College (inc. Chemistry, Geography, and Biology) </ul>
+<ul> <strong>2017-:</strong> PhD exploration geology at Cardiff University </ul>
+<ul> <strong>2016-2017:</strong> MRes geochemistry at University of Portsmouth </ul>
+<ul> <strong>2013-2016:</strong> BSc (hons) Geology at University of Portsmouth </ul>
+<ul> <strong>2011-2013:</strong> A Levels at Callington Community College (inc. Chemistry, Geography, and Biology) </ul>
 </details>
 
 <details>
 <summary>Employment History</summary>
-<ul> Summer 2018: Exploration Geologist at <a id="raw-url" href="http://northern-shield.com/">Northern Shield Resources</a></ul>
-<ul> Summer 2017: Exploration Geologist at <a id="raw-url" href="https://www.cornwallresources.com/">Cornwall Resources</a></ul>
-<ul> Summer 2016: Chemical Engineer at <a id="raw-url" href="https://www.grindingsolutions.com/">Grinding Solutions</a></ul>
+<ul> <strong>Summer 2018:</strong> Exploration Geologist at <a id="raw-url" href="http://northern-shield.com/">Northern Shield Resources</a></ul>
+<ul> <strong>Summer 2017:</strong> Exploration Geologist at <a id="raw-url" href="https://www.cornwallresources.com/">Cornwall Resources</a></ul>
+<ul> <strong>Summer 2016:</strong> Chemical Engineer at <a id="raw-url" href="https://www.grindingsolutions.com/">Grinding Solutions</a></ul>
 </details>
 
 <details>

@@ -20,9 +20,16 @@ taxonomy: research
 
 <ul> In our compilation, 316 intrusions possess one or more types of mineral occurrences, including: (i) 100 with stratiform PGE reef-style mineralisation, (ii) 143 with Ni-Cu-(PGE) contact-style mineralisation, (iii) 67 with stratiform Fe-Ti-V-(P) horizons, and (iv) ≥ 35 with chromitite seams. Sill-like or chonolithic layered intrusions present in extensional tectonic settings and spanning geological time are most prospective for Ni-Cu-(PGE) mineralisation. In contrast, PGE reef-style deposits are most prevalent in larger, commonly lopolithic intrusions that are generally > 1 Ga in age (~ 75%). Stratiform Fe-Ti-V-(P) horizons are most common in the central and upper portions of larger layered intrusions, occurring in the Archaean and Phanerozoic. Approximately 80% of intrusions with chromitite seams are older than 1 Ga and > 50% of them also contain PGE reefs.</ul>
 
-<img src="https://github.com/WillDSmith1995/willsgeo/tree/master/images/bushveld2.png" alt="Global distribution of layered intrusions">
+<figure>
+<img src="/willsgeo/images/lmiworld.png" alt="Global distribution of layered intrusions" style="width:100%">
+  <figcaption>Fig. 1. Global distribution of layered intrusions</figcaption>
+</figure>
 
-<img src="https://github.com/WillDSmith1995/willsgeo/tree/master/images/bushveld2.png" alt="Age range of layered intrusions">
+<figure>
+<img src="/willsgeo/images/lmiage.png" alt="Age range of layered intrusions" style="width:100%">
+  <figcaption>Fig. 2. Age range of layered intrusions</figcaption>
+</figure>
+
 
 <ul> A manuscript link is forthcoming.</ul>
 

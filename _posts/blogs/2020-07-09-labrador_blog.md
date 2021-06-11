@@ -20,7 +20,7 @@ taxonomy: blog
 <ul>Many junior exploration companies, that is those boots-on-the-ground teams of exploration geologists, are tasked with searching and characterising new mining opportunities. These companies often specialise in a specific commodity, since different commodities concentrate in completely different geological and geographical environments. I spent some time working with junior exploration company Northern Shield Resources (Ottawa, Canada) as part of my PhD project, doing my part in the hunt for new nickel, copper, and platinum group element resrouces. This hunt would take me up to the Labrador Trough in northern Quebec, a remote part of north-east Canada, occupied by small, local inuit and native american communities.</ul>
 
 <figure>
-  <img src="ott1.jpg" alt="Labrador Image" style="width:100%">
+  <img src="/images/ott1.JPG" alt="Labrador Image" style="width:100%">
   <figcaption>Fig.1 - Downtown Ottawa.</figcaption>
 </figure>
 

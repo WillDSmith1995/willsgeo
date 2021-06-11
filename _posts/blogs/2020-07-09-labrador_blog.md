@@ -21,7 +21,7 @@ taxonomy: blog
 
 
 <figure>
-<img src="/images/ott1.jpg">
+<img src="/images/ott1.jpg"  width="200"/>
 <figcaption>Fig.1 - Downtown Ottawa.</figcaption>
 </figure>
 

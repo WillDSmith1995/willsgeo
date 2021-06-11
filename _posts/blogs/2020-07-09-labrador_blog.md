@@ -36,7 +36,7 @@ taxonomy: blog
 <ul>Another cool thing about Ottawa, is that only a short drive away is the Gatineau National Park - a 360 ish square kilometre park filled with lakes and forrest - perfect for local bears to freely roam. For those who enjoy hiking, it is a great place to explore, with a number of trails ranging from easy-going to experienced hiker difficulties, you can even take a dip in the lakes if it gets to hot!
 
 <figure>
-  <img src="gat.jpg" alt="Labrador Image" style="width:100%">
+  <img src="/images/gat.jpg" alt="Labrador Image" style="width:100%">
   <figcaption>Fig.3 - Gatineau National Park.</figcaption>
 </figure>
 

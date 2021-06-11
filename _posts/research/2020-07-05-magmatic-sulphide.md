@@ -27,7 +27,7 @@ taxonomy: research
 <ul>The <a id="raw-url" href="http://northern-shield.com/idefix-ni-cu-pge-labrador-trough-quebec/">Idefix PGE-Cu prospect</a>
 (<em>Figure 2</em>) represents a &gt;400-m-thick stack of aphyric mesogabbroic sills that host stratiform disseminated sulphides (&#126; 0.2 to 0.4 g/t Pt+Pd+Au) over a thickness of &#126; 20 m, for up to  km. In addition, globular sulphides occur at the base of the sill, adjacent to metasedimentary floor rocks. Whole-rock lithophile and chalcophile element geochemistry indicates that the sills share a common source and that the magma(s) underwent significant fractionation before emplacement in the upper crust. To develop PGE-enriched sulphides, sulphide melt saturation was attained before the final emplacement of the host magma, peaking at <em>R</em> factors of	&#126; 10,000. The globular sulphides were entrained along the base of the sill, where they ingested crustally-derived arsenic and sulphur.</ul>
 
-<img src="/images/idefix1.png" alt="The Idefix prospect">
+<img src="/tree/master/images/idefix1.png" alt="The Idefix prospect">
 
 <ul>This occurrence highlights the challenges explorationists face in determining way-up of aphyric mesogabbro sills. Where whole-rock and mineral geochemistry prove ineffective (since mafic-ultramafic sills have the tendency to display what is known as geochemical reversals), geologists must search for way-up structures, perhaps located in the supracrustal country rock. In a <a id="raw-url" href="https://www.nrcresearchpress.com/doi/abs/10.1139/cjes-2019-0137#.XwLxSCi2ncs">2020 publication</a>, we propose several scenarios (<em>Figure 3</em>) for the formation of the Idefix PGE-Cu prospect and outline the implications this has for regional prospectivity.</ul>
 

@@ -18,15 +18,14 @@ taxonomy: blog
 <ul>The concept of <emph>mining</emph> or <emph>exploitation</emph> is villainised in the media and shackled to negative connotations by the general public. The reality is that we use an all manner of mined resources in our day-to-day life, and that isn't about to change whether we like it or not. That being said, sustainability is at the heart of the modern mining ethos. If new resources are becomming more difficult to find, we are left with two options: (1) make more out of the resources we have or (2) get better at looking for new ones.</ul>
 
 <ul>Many junior exploration companies, that is those boots-on-the-ground teams of exploration geologists, are tasked with searching and characterising new mining opportunities. These companies often specialise in a specific commodity, since different commodities concentrate in completely different geological and geographical environments. I spent some time working with junior exploration company Northern Shield Resources (Ottawa, Canada) as part of my PhD project, doing my part in the hunt for new nickel, copper, and platinum group element resrouces. This hunt would take me up to the Labrador Trough in northern Quebec, a remote part of north-east Canada, occupied by small, local inuit and native american communities.</ul>
-  
-<img src="images/ott1.jpg" alt="Labrador Image">
+
 
 <figure>
-<img src="{{ site.baseurl }}images/ott1.jpg">
+<img src="/images/ott1.jpg">
 <figcaption>Fig.1 - Downtown Ottawa.</figcaption>
 </figure>
 
-<img src="{{ site.baseurl }}images/ott1.jpg">
+<img src="{{ site.baseurl }}/images/ott1.jpg">
 
 # Working in Ottawa, Canada
 
@@ -40,7 +39,7 @@ taxonomy: blog
 <ul>Another cool thing about Ottawa, is that only a short drive away is the Gatineau National Park - a 360 ish square kilometre park filled with lakes and forrest - perfect for local bears to freely roam. For those who enjoy hiking, it is a great place to explore, with a number of trails ranging from easy-going to experienced hiker difficulties, you can even take a dip in the lakes if it gets to hot!
 
 <figure>
-  <img src="/images/gat.jpg" alt="Labrador Image" style="width:100%">
+  <img src="/images/gat.jpg" alt="Labrador Image">
   <figcaption>Fig.3 - Gatineau National Park.</figcaption>
 </figure>
 

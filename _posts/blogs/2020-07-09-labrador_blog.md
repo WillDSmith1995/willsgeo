@@ -25,7 +25,6 @@ taxonomy: blog
 <figcaption>Fig.1 - Downtown Ottawa.</figcaption>
 </figure>
 
-<img src="{{ site.baseurl }}/images/ott1.jpg">
 
 # Working in Ottawa, Canada
 

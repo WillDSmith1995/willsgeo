@@ -13,6 +13,8 @@ category: blog
 taxonomy: blog
 ---
 
+image: /images/dwars.jpg
+
 <ul>The world needs resources. That will not change in the forseeable future. What we can change, however, is the way in which we find and exploit these resources. It is hypothesised that many of Earth's 'easy-to-reach' resources have been found, thus forcing exploration geologists to search in more remote parts of the world and dig deeper than we ever have before.</ul>
 
 <ul>The concept of <emph>mining</emph> or <emph>exploitation</emph> is villainised in the media and shackled to negative connotations by the general public. The reality is that we use an all manner of mined resources in our day-to-day life, and that isn't about to change whether we like it or not. That being said, sustainability is at the heart of the modern mining ethos. If new resources are becomming more difficult to find, we are left with two options: (1) make more out of the resources we have or (2) get better at looking for new ones.</ul>
@@ -21,7 +23,7 @@ taxonomy: blog
 
 
 <figure>
-<img src="/images/ott1.jpg"  width="200"/>
+<img src="/willsgeo/images/ott1.jpg"  width="200"/>
 <figcaption>Fig.1 - Downtown Ottawa.</figcaption>
 </figure>
 

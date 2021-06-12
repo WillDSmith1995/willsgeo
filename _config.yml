@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "William Daniel Smith"
 description              : "Blog posts, presentations, and information."
-url                      : "https://github.com/WillDSmith1995/willsgeo/"
+url                      : "https://willdsmith1995.github.io/willsgeo/"
 baseurl                  : "/willsgeo"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

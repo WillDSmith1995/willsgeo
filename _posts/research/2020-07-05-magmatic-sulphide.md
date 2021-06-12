@@ -16,7 +16,7 @@ taxonomy: research
 
 # Overview
 
-<ul> My PhD project aims to better constrain the formation of magmatic Cu-Ni-(PGE) and PGE-Cu sulphide deposits in the Labrador Trough, NE Canada. I am applying a holistic and multi-scale approach to identify the processes that are major, minor, and detrimental for ore genesis in the region. This project is in collaboration with <a id="raw-url" href="http://northern-shield.com/">Northern Shield Resources</a>.</ul>
+<ul> My PhD project aimed to better constrain the formation of magmatic Cu-Ni-(PGE) and PGE-Cu sulphide deposits in the Labrador Trough, northeast Canada. I am applying a holistic and multi-scale approach to identify the processes that are favourable and detrimental to ore-forming processes in the region. This project is in collaboration with <a id="raw-url" href="http://northern-shield.com/">Northern Shield Resources</a>.</ul>
 
 <ul> The Labrador Trough in northern Quebec, Canada, is a site of ongoing exploration for magmatic sulphide deposits. The region is considered prospective for magmatic sulphide ores, since it is host to voluminous mafic-ultramafic rocks that occur in proximity to trans-crustal faults and sulphidic supracrustal rocks. The location, tectonic structure, and major mineral occurrences of the Labrador Trough are shown in <em>Figure 1</em>. </ul> 
 
@@ -40,7 +40,7 @@ taxonomy: research
 <ul>This occurrence highlights the challenges explorationists face in determining way-up of aphyric mesogabbro sills. Where whole-rock and mineral geochemistry prove ineffective (since mafic-ultramafic sills have the tendency to display what is known as geochemical reversals), geologists must search for way-up structures, perhaps located in the supracrustal country rock. In a <a id="raw-url" href="https://www.nrcresearchpress.com/doi/abs/10.1139/cjes-2019-0137#.XwLxSCi2ncs">2020 publication</a>, we propose several scenarios (<em>Figure 3</em>) for the formation of the Idefix PGE-Cu prospect and outline the implications this has for regional prospectivity.</ul>
 
 <figure>
-<img src="/willsgeo/images/idefix2.png" alt="Model scenarios of the Idefix prospect style="width:100%">
+<img src="/willsgeo/images/idefix2.png" alt="Model scenarios of the Idefix prospect" style="width:100%">
   <figcaption>Fig. 3. Petrogenetic models for the Idefix sill stack and its sulphides</figcaption>
 </figure>
 
@@ -62,23 +62,30 @@ taxonomy: research
 </figure>
 
 
-## Ongoing work
+## Distribution of noble metals in the Montagnais Sill Complex
 
-<ul> The distribution of chalcophile and siderophile elements among six styles of magmatic sulphide mineralisation in the Montagnais Sill Complex has been characterised using detailed mineralogical work combined with laser ablation-inductively coupled plasma-mass spectrometry trace element analysis of sulphides. We show that assemblages are dominated by pyrrhotite, pentlandite, and chalcopyrite, with accessory troilite, cubanite, mackinawite, and sulpharsenides. Net-textured and disseminated sulphides comprise platinum group mineral assemblages dominated by tellurides, electrum, and arsenide phases, that typically occur at silicate-sulphide grain boundaries. Pentlandite, sulpharsenides, and PGM are the most important hosts of platimin group elements. Further detail can be found in a forthcoming 2021 publication in the Canadian Mineralogist special issue in honour of the late Tony Naldrett.</ul>
+<ul> Coming soon    </ul>
+
 
 <figure>
 <img src="/willsgeo/images/noble.png" alt="Evolution of sulphide melt in magmatic sulphide occurrences of the Montagnais Sill Complex" style="width:100%">
   <figcaption>Fig. 6. Evolution of sulphide melt in magmatic sulphide occurrences of the Montagnais Sill Complex</figcaption>
 </figure>
 
-<ul> The interaction between mafic-ultramafic magma and crustal sulphide is considered a key process in the formation of magmatic Ni-Cu-PGE sulphide deposits. Integrated S/Se and multiple sulphur isotope studies are the most robust in constraining the role of crustal sulphur during ore genesis. We present the first integrated S/Se and multiple sulphur isotope study of magmatic sulphide occurrences in the Labrador Trough. S/Se values if sulphides and their host rocks are consistent with S loss during post-magmatic hydrothermal alteration, negating their use in interpreting the origin of S. The sulphur isotope signatures show no Archaean sulphur was assimilated, but that sulphides at Idefix and Huckleberry formed in response to the assimilation of small proportions of crustal sulphur, perhaps in a feeder conduit or staging chamber. Isotopic exchange between the sulphide melt and silicate magma has diluted and in places eradicated a crustal signature. Further detail can be found in a forthcoming 2021 publication in Economic Geology.</ul>
+## The S/Se and S isotope composition of sulphide occurrences in the Labrador Trough
+
+<ul>  Coming soon   </ul>
 
 <figure>
 <img src="/willsgeo/images/isotope.png" alt="Multiple sulphur isotope compositions of magmatic sulphides in the Montagnais Sill Complex" style="width:100%">
   <figcaption>Fig. 7. Multiple sulphur isotope compositions of magmatic sulphides in the Montagnais Sill Complex</figcaption>
 </figure>
 
-<ul> Resistant indicator minerals (RIMs) are widely used in the early stages of exploration for a range of commodities to delineate areas of heightened prospectivity. We intend to characterise apatite and Fe-Ti oxides hosted in mineralised and barren units to test their application as RIMs in the Labrador Trough.</ul>
+
+
+## Accessory phase perspectives on ore-forming processes in the Labrador Trough
+
+<ul>Coming soon  </ul>
 
 <figure>
 <img src="/willsgeo/images/huckle1.png" alt="The composition of apatite and Fe-Ti oxides in magmatic sulphide occurrences of the Montagnais Sill Complex" style="width:100%">

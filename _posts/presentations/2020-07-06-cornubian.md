@@ -16,7 +16,7 @@ taxonomy: presentations
   
 # Summary
   
-<ul>This poster summarises the geochemical and geochonological results from my masters project focused on disentangling bimodal granite magmatism of the Cornubian Batholith in southwest England. I present a hypothesis that a portion of 'magmatic zircon' in second-phase granite magmatism are infact antecrysts from older, crystallised granites. The implication is that initial-stage granite magmatism may be more widespread than previously thought, which has either been subject to erosion, has not yet been exposed, or is masked by second-phase granite magmatism. This poster was presentated at the Mineral Deposit Studies Group Annual Meeting in 2018.</ul>
+<ul>This poster summarises the geochemical and geochonological results from my Masters project focused on disentangling bimodal granite magmatism of the Cornubian Batholith in southwest England. I present a hypothesis that a portion of 'magmatic zircon' in second-phase granite magmatism are antecrysts from older, crystallised granites. The implication is that initial-stage granite magmatism may be more widespread than previously thought, which has either been subject to erosion, has not yet been exposed, or is masked by second-phase granite magmatism. This poster was presentated at the Mineral Deposit Studies Group Annual Meeting in 2018.</ul>
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/H-ZhA_dGcW8?start=2" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>

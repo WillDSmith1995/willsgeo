@@ -16,7 +16,7 @@ taxonomy: resources
   
 ## Data collations from the Labrador Trough, Canada
   
-<ul>Data used as part of my PhD study will be posted on this page. The datasheets include whole-rock geochemical data, mineral chemistry data, and isotopic data. A vast amount of publically accessible data regarding the Labrador Trough can be downloaded from the <a id="raw-url" href="http://sigeom.mines.gouv.qc.ca/signet/classes/I1108_afchCarteIntr?l=a">Energie et Ressources naturelles Quebec</a>.</ul>
+<ul>This page hosts data from my PhD. The datasheets include whole-rock geochemical data, mineral chemistry data, and isotopic data. A vast amount of publically accessible data regarding the Labrador Trough can be downloaded from the <a id="raw-url" href="http://sigeom.mines.gouv.qc.ca/signet/classes/I1108_afchCarteIntr?l=a">Energie et Ressources naturelles Quebec</a>.</ul>
 
 <ul>The current available datasets include:</ul>
 

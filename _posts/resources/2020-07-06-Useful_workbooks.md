@@ -14,7 +14,7 @@ category: resources
 taxonomy: resources
 ---
   
-## Useful excel workbooks for download.
+## Useful resources available for download.
   
 <ul>The collection of useful files and workbooks used as part of my studies in Earth Science. Please download, use, and edit at your own volition.</ul>
   
@@ -27,3 +27,9 @@ taxonomy: resources
 <li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideEvolution_WDS.xlsx" download>R, N, and multi-stage dissolution sulphide upgrading model</a></li>
 
 <li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SulphideTenor_WDS.xlsx" download>Calculation of sulphide metal contents</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/StokesLaw_WDS.xlsx" download>Stoke's Law settling velocities</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/PGEMassBalance_WDS.xlsx" download>Noble metal mass balance</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SCSS_WDS.xlsx" download>Sulphur content at sulphide melt saturation worksheet</a></li>

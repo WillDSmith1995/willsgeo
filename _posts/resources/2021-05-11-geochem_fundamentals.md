@@ -4,7 +4,7 @@ date: '2021-05-11'
 excerpt: Geochemical data
 output: pdf_document
 header:
-  image: /images/bushmap.jpg
+  image: /images/bushmap.png
 tags:
 - geochemistry
 - isotopes

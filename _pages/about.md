@@ -53,7 +53,7 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 </details>
 
 <details>
-<summary>Memberships & socieities</summary>
+<summary>Memberships & societies</summary>
 <ul> Since 2016, I have been a student representative of the <a id="raw-url" href="https://www.segweb.org/">Society of Economic Geologists</a> at Cardiff University, the University of Portsmouth, and for the United Kingdom. This is a brilliant society, which has many useful resources, fieldtrips, and funding opportunities, together with an expansive network of students and professionals. In addition, I have been a student editor for the Applied Mineralogist of the <a id="raw-url" href="https://www.minersoc.org/amg.html">Applied Mineralogy Group</a>, a quarterly bulletin on all things mineralogy. </ul> 
 
 <ul> Other societies I have been involved in include the <a id="raw-url" href="https://www.iom3.org/">Institute or Materials, Minerals & Mining (IOM3)</a>, the <a id="raw-url" href="https://geologistsassociation.org.uk/">Geologists Association</a>, the <a id="raw-url" href="https://www.geolsoc.org.uk/geochemistry">Geochemistry Group</a>, and the <a id="raw-url" href="https://www.minersoc.org/#/ms-5/2">Mineralogical Society</a>.</ul>
@@ -65,7 +65,7 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <ul> <strong>2017/18:</strong> SEG Hugh McKinstry fieldwork grant worth 2,500 GBP</ul>
 <ul> <strong>2016/17:</strong> Mineralogical Society postgraduate bursary worth 500 GBP</ul>
 <ul> <strong>2017/18:</strong> SEG Steward R. Wallace fieldwork grant worth 4,000 GBP</ul>
-<ul> <strong>2017/21:</strong><a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/"> GW4+ NERC DTP</a> research grant with additional CASE funding.</ul>
+<ul> <strong>2017/21:</strong> <a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/">GW4+ NERC DTP</a> research grant with additional CASE funding.</ul>
 <ul> <strong>2019/20:</strong> Graduate tutor of the year finalist at Cardiff University</ul>
 <ul> <strong>2020/21:</strong> 600 GBP bursary recipient from the Geologists' Association</ul>
 <ul> <strong>2021/22:</strong> Earth science panel judge for the Global Undergraduate Awards</ul>

@@ -64,8 +64,7 @@ taxonomy: research
 
 ## Distribution of noble metals in the Montagnais Sill Complex
 
-<ul> Coming soon    </ul>
-
+<ul>The distribution of noble metals in six magmatic sulphide environments of the Labrador Trough in northern Quebec have been characterised using optical and electron microscopy combined with LA-ICP-MS trace element analysis of sulphides (<em>Figure 6</em>). The principle sulphides include pyrrhotite, chalcopyrite, and pentlandite with accessory sphalerite and sulpharsenides. In addition, cubanite, troilite, and mackinawite are present in ultramafic-hosted assemblages. The precious metal mineral assemblages are dominated by tellurides, electrum, and sperrylite which generally occur at sulphide margins. Few IPGE- and Rh-bearing grains were identified and mass balance calculations show that most of these elements are hosted in pyrrhotite and pentlandite. Virtually all Pt and Au are hosted in precious metal grains, whereas Pd is distributed between precious metal grains and pentlandite. Where present, sulpharsenides are a key host of IPGE, Rh, Pd, Te, and Au. The presence of troilite, cubanite, and mackinawite and the absence of pentlandite exsolution lamellae in the ultramafic-hosted sulfides indicates an initial sulphide melt with a high metal/S ratio. Sulpharsenides present among globular sulphide assemblages derive from an immiscible As-rich melt that exsolved from the sulphide melt in response to the assimilation of the As-bearing floor-rocks. In this study, the composition of sulphides is consistent with those derived from Ni-Cu-dominated deposits and not PGE-dominated deposits. Further detail on this subject can be found in a forthcoming publication.</ul> 
 
 <figure>
 <img src="/willsgeo/images/noble.png" alt="Evolution of sulphide melt in magmatic sulphide occurrences of the Montagnais Sill Complex" style="width:100%">
@@ -74,7 +73,10 @@ taxonomy: research
 
 ## The S/Se and S isotope composition of sulphide occurrences in the Labrador Trough
 
-<ul>  Coming soon   </ul>
+<ul> The interaction between mafic-ultramafic magma and crustal sulphide is considered a key process in the formation of magmatic Ni-Cu-platinum group element sulphide deposits. Integrated S/Se and multiple sulphur isotope studies are the most robust in constraining the role of crustal sulphur during ore genesis. In the present study, we report the first integrated S/Se and multiple sulphur isotope study of magmatic sulphide occurrences in the Labrador Trough, namely on the recently discovered Idefix PGE-Cu and Huckleberry Cu-Ni-(PGE) prospects.</ul>
+
+<ul> Whole-rock and <em>in situ</em> S/Se values (ca. 810-3115) of magmatic sulphides and their host rocks are consistent with S loss during post-magmatic hydrothermal alteration, negating their use in interpreting the origin of S. Values of &#8710;33S  0 indicate no record of the assimilation of Archaean sulphur.  Disseminated (-0.5 to 2.5???) and globular (3.0-4.5???) sulphides at Idefix as well as globular sulphides (2.1-9.6???) at Huckleberry have 34S values greater than the accepted mantle range, suggesting that crustal S has played a role in the formation of these sulphides. In contrast, disseminated and net-textured sulphides at Huckleberry have variable 34S values (-4.6 to 3.2???) that are mostly within the accepted mantle range, excluding one anomalous sample that records relatively higher 34S values (11.9-15.0???). It is proposed that sulphide melt segregated in response to the addition of small proportions of crustal S prior to the final emplacement of the host intrusions, <em>i.e.,</em> in a feeder conduit or staging chamber. Isotopic exchange between the sulphide melt and silicate magma has diluted and in places eradicated a crustal 34S signature.</ul>
+
 
 <figure>
 <img src="/willsgeo/images/isotope.png" alt="Multiple sulphur isotope compositions of magmatic sulphides in the Montagnais Sill Complex" style="width:100%">

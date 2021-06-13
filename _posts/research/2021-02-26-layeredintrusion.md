@@ -19,7 +19,7 @@ taxonomy: research
 <ul> In a 2021 manuscript, we have compiled data on 634 layered and differentiated igneous intrusions globally, documenting their (i) location, (ii) age, (iii) size, (iv) geotectonic setting, (v) putative parent magma(s), (vi) crystallisation sequence, and (vii) mineral deposits. Most studied intrusions occur in Russia (99), Australia (73), Canada (65), China (48), Finland (39), South Africa (38), and Brazil (35). Notable clusters of: (i) Archaean intrusions (15%) include those of the McFaulds Lake Area (commonly known as the Ring of Fire, Canada), Pilbara and Yilgarn cratons (Australia), and Barberton (South Africa); (ii) Proterozoic intrusions (55%) include those of the Giles Event and Halls Creek Orogen (Australia), Kaapvaal craton and its margin (South Africa and Botswana), Kola and Karelia cratons (Finland and Russia), and Midcontinent Rift (Canada and USA); and (iii) Phanerozoic intrusions (30%) include those of eastern Greenland, the Central Asian Orogenic Belt (China and Mongolia) and Emeishan large igneous province (China). Throughout geological time, the occurrence of many layered intrusions correlate broadly with the amalgamation and break-up of supercontinents, yet the size and mineral inventory of intrusions shows no obvious secular changes. </ul>
 
 <figure>
-<img src="/willsgeo/images/lmiworld.png" alt="Global distribution of layered intrusions" style="width:100%">
+<img src="/willsgeo/images/lmiworld.jpg" alt="Global distribution of layered intrusions" style="width:100%">
   <figcaption>Fig. 1. Global distribution of layered intrusions</figcaption>
 </figure>
 
@@ -29,6 +29,6 @@ taxonomy: research
 
 
 <figure>
-<img src="/willsgeo/images/lmiage.png" alt="Age range of layered intrusions" style="width:100%">
+<img src="/willsgeo/images/lmiage.jpg" alt="Age range of layered intrusions" style="width:100%">
   <figcaption>Fig. 2. Age range of layered intrusions</figcaption>
 </figure>

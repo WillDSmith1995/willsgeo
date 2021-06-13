@@ -9,8 +9,7 @@ header:
 
 I am a geologist currently reading for a PhD in exploration geology at the [School of Earth and Environmental Sciences of Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/1010781-smith-william) in the UK. My research focusses on the formation of magmatic and hydromagmatic ore deposits, particularly magmatic Ni-Cu-PGE sulphide deposits and granite-related W-Sn-Cu deposits. 
 
-I am an economic geologist and researcher, with interests in magmatic and magmatic-hydrothermal ore systems. Born in Essex and raised in Cornwall (United Kingdom), I became interested in geosciences upon completion of my chemistry and geography A-levels at Callington College. I completed a Bachlors degree with honors in geology and a Masters degree in igneous petrology and ore deposit geology at the University of Portsmouth between 2013 and 2017. Following this, I went on to read for a PhD in igneous petrology and magmatic sulphide deposites at Cardiff University from 2017 to 2021. I am now...
-
+I am an economic geologist and researcher, with interests in magmatic and magmatic-hydrothermal ore systems. Born in Essex and raised in Cornwall (United Kingdom), I became interested in geosciences upon completion of my chemistry and geography A-levels at Callington College. I completed a Bachlors degree with honors in geology and a Masters degree in igneous petrology and ore deposit geology at the University of Portsmouth between 2013 and 2017. Following this, I went on to read for a PhD in igneous petrology and magmatic sulphide deposits at Cardiff University from 2017 to 2021.
 
 <details>
 <summary>Fieldwork Experience</summary>
@@ -41,7 +40,7 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <details>
 <summary>Education</summary>
 <ul> <strong>2017-2021:</strong> PhD Magmatic sulphides at Cardiff University </ul>
-<ul> <strong>2016-2017:</strong> MRes granite-related ore systems at the University of Portsmouth </ul>
+<ul> <strong>2016-2017:</strong> MRes Granite-related ore systems at the University of Portsmouth </ul>
 <ul> <strong>2013-2016:</strong> BSc (hons) Geology at University of Portsmouth </ul>
 <ul> <strong>2011-2013:</strong> A Levels at Callington Community College (inc. Chemistry, Geography, and Biology) </ul>
 </details>
@@ -62,13 +61,13 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 
 <details>
 <summary>Notable awards, grants, & funding</summary>
-<ul> <strong>2017/18:</strong> University of Portsmouth postgraduate scholarship worth £3,000</ul>
-<ul> <strong>2017/18:</strong> SEG Hugh McKinstry fieldwork grant worth £2,500</ul>
-<ul> <strong>2016/17:</strong> Mineralogical Society postgraduate bursary worth £500</ul>
-<ul> <strong>2017/18:</strong> SEG Steward R. Wallace fieldwork grant worth £4,000</ul>
-<ul><strong>2017/21:</strong><a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/">GW4+ NERC DTP</a> research granite with additional CASE funding.</ul>
+<ul> <strong>2017/18:</strong> University of Portsmouth postgraduate scholarship worth 3,000 GBP</ul>
+<ul> <strong>2017/18:</strong> SEG Hugh McKinstry fieldwork grant worth 2,500 GBP</ul>
+<ul> <strong>2016/17:</strong> Mineralogical Society postgraduate bursary worth 500 GBP</ul>
+<ul> <strong>2017/18:</strong> SEG Steward R. Wallace fieldwork grant worth 4,000 GBP</ul>
+<ul> <strong>2017/21:</strong><a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/"> GW4+ NERC DTP</a> research grant with additional CASE funding.</ul>
 <ul> <strong>2019/20:</strong> Graduate tutor of the year finalist at Cardiff University</ul>
-<ul> <strong>2020:</strong> £600 bursary recipient from the Geologists' Association</ul>
+<ul> <strong>2020/21:</strong> 600 GBP bursary recipient from the Geologists' Association</ul>
 <ul> <strong>2021/22:</strong> Earth science panel judge for the Global Undergraduate Awards</ul>
 </details>
 

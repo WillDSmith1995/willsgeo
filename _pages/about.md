@@ -71,6 +71,18 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <ul> <strong>2021/22:</strong> Earth science panel judge for the Global Undergraduate Awards</ul>
 </details>
 
+<details>
+<summary>List of publications</summary>
+<ul><strong>WD Smith</strong> and WD Maier. The geotectonic setting, age and mineral deposit inventory of global layered intrusions (2021) Earth-Science Reviews, 103736</ul>
+<ul><strong>WD Smith</strong>, WD Maier, SJ Barnes, G Moorhead, D Reid, and B Karykowski. Element mapping the Merensky Reef of the Bushveld Complex (2021). Geoscience Frontiers 12 (3), 101101</ul>
+<ul>WD Maier, SJ Barnes, D Muir, D Savard, Y Lahaye, and <strong>WD Smith</strong>. Formation of Bushveld anorthosite by reactive porous flow (2021). Contributions to Mineralogy and Petrology 176 (1), 1-12.</ul>
+<ul><strong>WD Smith</strong>, WD Maier, and I Bliss. The geology, geochemistry, and petrogenesis of the Huckleberry Cu-Ni-PGE prospect in the Labrador Trough, Canada: Perspectives for regional prospectivity (2020). Ore Geology Reviews, 103905.</ul>
+<ul><strong>WD Smith</strong>, WD Maier, and I Bliss. Contact-style magmatic sulphide mineralisation in the Labrador Trough, northern Quebec, Canada: implications for regional prospectivity (2020). Canadian Journal of Earth Sciences 57 (7), 867-883.</ul>
+<ul><strong>WD Smith</strong>, JR Darling, DS Bullen, S Lasalle, I Pereira, H Moreira, CJ Allen, and S Tapster.
+Zircon perspectives on the age and origin of evolved S-type granites from the Cornubian Batholith, Southwest England. (2019). Lithos 336, 14-26.</ul>
+</details>
+
+
 <a id="raw-url" href="https://github.com/WillDSmith1995/willsgeo/blob/master/assets/CV_WDS.pdf">See my CV here</a>
 
 <a id="raw-url" href="https://github.com/WillDSmith1995/willsgeo/blob/master/assets/ResearchStatement_WDS.pdf">See my research statement here</a>

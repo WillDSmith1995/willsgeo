@@ -34,7 +34,7 @@ taxonomy: research
 </figure>
 
 <div id="wrap">
-<iframe src="file:///C:/Users/Lenovo/Documents/layered-intrusions/index.html#2/-8.8/20.8" title="map" class="is-fullwidth" height="550px" width="800px"></iframe>
+<iframe src="https://qgiscloud.com/WillDSmith1995/LMI_work/?bl=mapnik&l=LMI_GI%2CCraton_Outlines&t=LMI_work&e=-11595545%2C-9700476%2C48516980%2C16285668" title="map" class="is-fullwidth" height="550px" width="800px"></iframe>
 </div>
 
 

@@ -34,17 +34,14 @@ taxonomy: research
   <figcaption>Fig. 2. Age range of layered intrusions</figcaption>
 </figure>
 
+
+# Map and downloads
+
 <div id="wrap">
 <iframe src="https://qgiscloud.com/WillDSmith1995/LMI_work/?bl=mapnik&l=LMI_GI%2CCraton_Outlines&t=LMI_work&e=-11595545%2C-9700476%2C48516980%2C16285668" title="map" class="is-fullwidth" height="550px" width="800px"></iframe>
 </div>
 
-<form accept-charset="UTF-8" action="https://getform.io/{your-form-endpoint}" method="POST" enctype="multipart/form-data" target="_blank">
-    <input type="email" name="email" placeholder="Your Email">
-    <input type="text" name="name" placeholder="Your Name">
-    <input type="text" name="message" placeholder="Your Message">
-    
-  <input type="file" name="document">
-    <button type="submit">Send</button>
-</form>
+
+<br>
 
 <li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/LMI_compilation.xlsx" download>LMI_compilation</a></li>

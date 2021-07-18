@@ -37,4 +37,6 @@ taxonomy: research
 <iframe src="file:///C:/Users/Lenovo/Documents/layered-intrusions/index.html#2/-8.8/20.8" title="map" class="is-fullwidth" height="550px" width="800px"></iframe>
 </div>
 
+
+
 <li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/LMI_compilation.xlsx" download>LMI_compilation</a></li>

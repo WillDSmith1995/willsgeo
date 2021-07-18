@@ -1,10 +1,12 @@
 ---
-layout: archive
+layout: category
 author_profile: true
+taxonomy: contact
+category: contact
 title: "Contact Me"
 permalink: /contact/
 header:
-  image: "/images/nova.jpg"
+  image: "/images/view.jpg"
 ---
 
 I am a geologist currently reading for a PhD in exploration geology at the [School of Earth and Environmental Sciences of Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/1010781-smith-william) in the UK. My research focusses on the formation of magmatic and hydromagmatic ore deposits, particularly magmatic Ni-Cu-PGE sulphide deposits and granite-related W-Sn-Cu deposits. 

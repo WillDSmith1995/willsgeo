@@ -21,7 +21,7 @@ taxonomy: research
 
 <ul> Many intrusions host one or more types of mineral occurrence, including (but not limited to): stratiform PGE reefs, magmatic Ni-Cu-(PGE) sulphides, stratiform Fe-Ti-V-(P) oxide horizons, chromitite layers and seams, and lateritic deposits. Sill-like or chonolithic intrusions hosted in extensional tectonic settings and spanning geological time are most prospective for Ni-Cu-(PGE) mineralisation. In contrast, PGE reef-style deposits are most prevalent in larger, commonly lopolithic intrusions that are generally > 1 Ga in age. Stratiform Fe-Ti-V-(P) horizons are most common in the central and upper portions of larger layered intrusions, occurring in the Archaean and Phanerozoic. Most intrusions with chromitite seams are older than 1 Ga and over 50% of them also contain PGE reefs. </ul>
 	
-<ul> We hypothesise that many more intrusions remain to be discovered and documented. On this page, viewers can see a QGIS3.0 map showing the outlines of cratons and the distribution of compiled layered igneous intrusions as well as the compilation spreadsheet. Note that plots are available in the tab labelled 'PLOTS'. There are several downloads available, including the compilation and GIS layers.<ul>
+<ul> We hypothesise that many more intrusions remain to be discovered and documented. On this page, viewers can see a QGIS3.0 map showing the outlines of cratons and the distribution of compiled layered igneous intrusions as well as the compilation spreadsheet.<ul>
 
 <br>
 
@@ -31,21 +31,31 @@ taxonomy: research
 
 <br>
 
-
-<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://cf-my.sharepoint.com/personal/smithwd1_cardiff_ac_uk/_layouts/15/Doc.aspx?sourcedoc={979f3efa-ecc5-4db9-9270-3b2e564f4d75}&action=embedview&ActiveCell='.csv_edit'!A2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://cf-my.sharepoint.com/personal/smithwd1_cardiff_ac_uk/_layouts/15/Doc.aspx?sourcedoc={979f3efa-ecc5-4db9-9270-3b2e564f4d75}&action=embedview&ActiveCell='Table'!A1&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+<br>
 
 <br>
 
-# Submit an intrusion
+<strong>Submit an intrusion</strong>
 
 <ul>If readers wish to submit a new addition to the compilation or ammend an existing one, please complete the sheet below. Here, you may input the relevent information and attach pdfs of the relevent literature.</ul>
 
 
+<ul> Submission system coming soon </ul>
 
-# Map and downloads
+
+<strong>Downloads</strong>
 
 <ul> The links will either initiate a download or redirect you to my GitHub account, where you may download the desired material. If used in publications or teaching materials, please cite (see hyperlink above to Earth-Science Reviews page).
 
 <br>
 
-<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/LMI_compilation.xlsx" download>LMI_compilation</a></li>
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SmithMaier2021_LayeredIntrusion_Compilation.xlsx" download>Layered Intrusion Full Compilation</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/SmithMaier2021_LayeredIntrusion_CSVready_version.xlsx" download>Layered Intrusion CSV version for easy inclusion into GIS or programming softwares</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/CratonOutlines_shapefile.zip" download>Craton outline shapefile for GIS users</a></li>
+
+<li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/LayeredIntrusion_shapefile.zip" download>Layered Intrusion shapefile for GIS users</a></li>
+
+<br>

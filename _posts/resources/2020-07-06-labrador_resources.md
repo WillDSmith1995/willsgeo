@@ -16,8 +16,8 @@ taxonomy: resources
   
 ## Data collations from the Labrador Trough, Canada
   
-<ul>This page hosts data from my PhD. The datasheets include whole-rock geochemical data, mineral chemistry data, and isotopic data. A vast amount of publically accessible data regarding the Labrador Trough can be downloaded from the <a id="raw-url" href="http://sigeom.mines.gouv.qc.ca/signet/classes/I1108_afchCarteIntr?l=a">Energie et Ressources naturelles Quebec</a>.</ul>
+<ul>Readers are referred to publications in my <emph>Magmatic Sulphides of the Labrador Trough</emph> section in <emph>My Research</emph> for supplementary materials that includes whole-rock geochemistry, mineral chemistry, and isotope geochemistry of the Montangias Sill Complex rocks and sulphides, as well as their country rocks. A vast amount of publically accessible data regarding the Labrador Trough can be downloaded from the <a id="raw-url" href="http://sigeom.mines.gouv.qc.ca/signet/classes/I1108_afchCarteIntr?l=a">Energie et Ressources naturelles Quebec</a>.</ul>
 
-<ul>The current available datasets include:</ul>
+<ul>Datasets not already available online include:</ul>
 
 <li><a href="https://github.com/WillDSmith1995/willsgeo/tree/master/assets/Collations_Labrador_basalts_and_chills.xlsx" download>Collation: Basalts and chills</a></li>

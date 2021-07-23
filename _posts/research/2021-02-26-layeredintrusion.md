@@ -3,7 +3,6 @@ title: "Global layered intrusions and their mineral inventory"
 date: '2021-02-26'
 excerpt: Global layered intrusions
 output: pdf_document
-permalink: contact
 header:
   image: /images/bushveld.jpg
 tags:
@@ -15,13 +14,13 @@ category: research
 taxonomy: research
 ---
   
-# Global layered intrusions and their mineral inventory
+# Summary
 
 <ul> In a <a id="raw-url" href="https://www.sciencedirect.com/science/article/pii/S0012825221002373?casa_token=dXkDiBw741UAAAAA:o7xkmsQbs7g1j92sQCR9EPcIKja-E54HH928TqNjaqfyGiPXofFex4gvwhEFWGQIHSbtZZjL">2021 publication</a>, myself and Wolfgang Maier compiled information on a number of layered igneous intrusions globally, documenting their (i) location, (ii) age, (iii) size, (iv) geotectonic setting, (v) putative parent magma(s), (vi) crystallisation sequence, and (vii) mineral deposits. Countries such as Russia, Australia, Canada, Finland, South Africa, China, and Brazil host the largest numbers of layered igneous intrusions. Most intrusions are Proterozoic in age, followed by Phanerozoic, and lastly, Archaean. Throughout geological time, the occurrence of many layered intrusions correlate broadly with the amalgamation and break-up of supercontinents, yet the size and mineral inventory of intrusions shows no obvious secular changes. </ul>
 
 <ul> Many intrusions host one or more types of mineral occurrence, including (but not limited to): stratiform PGE reefs, magmatic Ni-Cu-(PGE) sulphides, stratiform Fe-Ti-V-(P) oxide horizons, chromitite layers and seams, and lateritic deposits. Sill-like or chonolithic intrusions hosted in extensional tectonic settings and spanning geological time are most prospective for Ni-Cu-(PGE) mineralisation. In contrast, PGE reef-style deposits are most prevalent in larger, commonly lopolithic intrusions that are generally > 1 Ga in age. Stratiform Fe-Ti-V-(P) horizons are most common in the central and upper portions of larger layered intrusions, occurring in the Archaean and Phanerozoic. Most intrusions with chromitite seams are older than 1 Ga and over 50% of them also contain PGE reefs. </ul>
 	
-<ul> We hypothesise that many more intrusions remain to be discovered and documented. On this page, viewers can see a QGIS3.0 map showing the outlines of cratons and the distribution of compiled layered igneous intrusions as well as the compilation spreadsheet.<ul>
+<ul> We hypothesise that many more intrusions remain to be discovered and documented. On this page, viewers can see: (1) a QGIS3.0 map showing the outlines of cratons and the distribution of compiled layered igneous intrusions; (2) the compilation spreadsheet.<ul>
 
 <br>
 
@@ -42,6 +41,8 @@ taxonomy: research
 
 
 <ul> Submission system coming soon </ul>
+
+<br>
 
 
 <strong>Downloads</strong>

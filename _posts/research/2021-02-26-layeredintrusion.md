@@ -3,6 +3,7 @@ title: "Global layered intrusions and their mineral inventory"
 date: '2021-02-26'
 excerpt: Global layered intrusions
 output: pdf_document
+permalink: intrusions
 header:
   image: /images/bushveld.jpg
 tags:

@@ -17,30 +17,34 @@ taxonomy: research
   
 # Global layered intrusions and their mineral inventory
 
-<ul> In a <a id="raw-url" href="https://www.sciencedirect.com/science/article/pii/S0012825221002373?casa_token=dXkDiBw741UAAAAA:o7xkmsQbs7g1j92sQCR9EPcIKja-E54HH928TqNjaqfyGiPXofFex4gvwhEFWGQIHSbtZZjL">2021 manuscript</a>, we have compiled data on 634 layered and differentiated igneous intrusions globally, documenting their (i) location, (ii) age, (iii) size, (iv) geotectonic setting, (v) putative parent magma(s), (vi) crystallisation sequence, and (vii) mineral deposits. Most studied intrusions occur in Russia (99), Australia (73), Canada (65), China (48), Finland (39), South Africa (38), and Brazil (35). Notable clusters of: (i) Archaean intrusions (15%) include those of the McFaulds Lake Area (commonly known as the Ring of Fire, Canada), Pilbara and Yilgarn cratons (Australia), and Barberton (South Africa); (ii) Proterozoic intrusions (55%) include those of the Giles Event and Halls Creek Orogen (Australia), Kaapvaal craton and its margin (South Africa and Botswana), Kola and Karelia cratons (Finland and Russia), and Midcontinent Rift (Canada and USA); and (iii) Phanerozoic intrusions (30%) include those of eastern Greenland, the Central Asian Orogenic Belt (China and Mongolia) and Emeishan large igneous province (China). Throughout geological time, the occurrence of many layered intrusions correlate broadly with the amalgamation and break-up of supercontinents, yet the size and mineral inventory of intrusions shows no obvious secular changes. </ul>
+<ul> In a <a id="raw-url" href="https://www.sciencedirect.com/science/article/pii/S0012825221002373?casa_token=dXkDiBw741UAAAAA:o7xkmsQbs7g1j92sQCR9EPcIKja-E54HH928TqNjaqfyGiPXofFex4gvwhEFWGQIHSbtZZjL">2021 publication</a>, myself and Wolfgang Maier compiled information on a number of layered igneous intrusions globally, documenting their (i) location, (ii) age, (iii) size, (iv) geotectonic setting, (v) putative parent magma(s), (vi) crystallisation sequence, and (vii) mineral deposits. Countries such as Russia, Australia, Canada, Finland, South Africa, China, and Brazil host the largest numbers of layered igneous intrusions. Most intrusions are Proterozoic in age, followed by Phanerozoic, and lastly, Archaean. Throughout geological time, the occurrence of many layered intrusions correlate broadly with the amalgamation and break-up of supercontinents, yet the size and mineral inventory of intrusions shows no obvious secular changes. </ul>
 
-<figure>
-<img src="/willsgeo/images/lmiworld.jpg" alt="Global distribution of layered intrusions" style="width:100%">
-  <figcaption>Fig. 1. Global distribution of layered intrusions</figcaption>
-</figure>
-
-<ul> In our compilation, 372 intrusions possess one or more types of mineral occurrences, including: (i) 110 with stratiform PGE reef-style mineralisation, (ii) 169 with Ni-Cu-(PGE) contact-style mineralisation, (iii) 75 with stratiform Fe-Ti-V-(P) horizons, and (iv) 35 with chromitite seams. Sill-like or chonolithic differentiated intrusions present in extensional tectonic settings and spanning geological time are most prospective for Ni-Cu-(PGE) mineralisation. In contrast, PGE reef-style deposits are most prevalent in larger, commonly lopolithic intrusions that are generally > 1 Ga in age (75%). Stratiform Fe-Ti-V-(P) horizons are most common in the central and upper portions of larger layered intrusions, occurring in the Archaean and Phanerozoic. Approximately 80% of intrusions with chromitite seams are older than 1 Ga and over 50% of them also contain PGE reefs. </ul>
+<ul> Many intrusions host one or more types of mineral occurrence, including (but not limited to): stratiform PGE reefs, magmatic Ni-Cu-(PGE) sulphides, stratiform Fe-Ti-V-(P) oxide horizons, chromitite layers and seams, and lateritic deposits. Sill-like or chonolithic intrusions hosted in extensional tectonic settings and spanning geological time are most prospective for Ni-Cu-(PGE) mineralisation. In contrast, PGE reef-style deposits are most prevalent in larger, commonly lopolithic intrusions that are generally > 1 Ga in age. Stratiform Fe-Ti-V-(P) horizons are most common in the central and upper portions of larger layered intrusions, occurring in the Archaean and Phanerozoic. Most intrusions with chromitite seams are older than 1 Ga and over 50% of them also contain PGE reefs. </ul>
 	
-<ul> Based on the distribution of layered intrusions in relatively well explored terranes (<em>e.g.,</em> Finland, South Africa, Western Australia), we propose that many layered intrusions remain to be discovered on Earth, particularly in poorly explored and relatively inaccessible regions of Africa, Australia, Russia, Greenland, Antarctica, South America, and northern Canada.</ul>
+<ul> We hypothesise that many more intrusions remain to be discovered and documented. On this page, viewers can see a QGIS3.0 map showing the outlines of cratons and the distribution of compiled layered igneous intrusions as well as the compilation spreadsheet. Note that plots are available in the tab labelled 'PLOTS'. There are several downloads available, including the compilation and GIS layers.<ul>
 
-
-<figure>
-<img src="/willsgeo/images/lmiage.jpg" alt="Age range of layered intrusions" style="width:100%">
-  <figcaption>Fig. 2. Age range of layered intrusions</figcaption>
-</figure>
-
-
-# Map and downloads
+<br>
 
 <div id="wrap">
 <iframe src="https://qgiscloud.com/WillDSmith1995/LMI_work/?bl=mapnik&l=LMI_GI%2CCraton_Outlines&t=LMI_work&e=-11595545%2C-9700476%2C48516980%2C16285668" title="map" class="is-fullwidth" height="550px" width="800px"></iframe>
 </div>
 
+<br>
+
+
+<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://cf-my.sharepoint.com/personal/smithwd1_cardiff_ac_uk/_layouts/15/Doc.aspx?sourcedoc={979f3efa-ecc5-4db9-9270-3b2e564f4d75}&action=embedview&ActiveCell='.csv_edit'!A2&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
+
+<br>
+
+# Submit an intrusion
+
+<ul>If readers wish to submit a new addition to the compilation or ammend an existing one, please complete the sheet below. Here, you may input the relevent information and attach pdfs of the relevent literature.</ul>
+
+
+
+# Map and downloads
+
+<ul> The links will either initiate a download or redirect you to my GitHub account, where you may download the desired material. If used in publications or teaching materials, please cite (see hyperlink above to Earth-Science Reviews page).
 
 <br>
 

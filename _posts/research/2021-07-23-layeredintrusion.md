@@ -29,16 +29,19 @@ taxonomy: research
 </div>
 
 <br>
+https://1drv.ms/x/s!Au4qOuuLYz_egYUGpD1n8IZsg8RclQ?e=1rRAVQ
+<br>
 
 <iframe width="700" height="600" frameborder="0" scrolling="no" src="https://onedrive.live.com/embed?resid=DE3F638BEB3A2AEE%2117030&authkey=%21AIrT029AttF8kNE&em=2&ActiveCell='Table'!A3&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 <br>
 
 <strong>Submit an intrusion</strong>
 
-<ul>If readers wish to submit a new addition to the compilation or ammend an existing one, please complete the sheet below. Here, you may input the relevent information and attach pdfs of the relevent literature.</ul>
+<ul>If readers wish to submit a new addition to the compilation or amend an existing one, please complete the sheet below. Here, you may input the relevent information and attach pdfs of the relevent literature.</ul>
 
+<br>
 
-<ul> Submission system coming soon </ul>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSduQA0HJ3F4wlf_zmfcUTVR4D8YoNX7LmWboAm5ynbYbIg1sA/viewform?embedded=true" width="640" height="5093" frameborder="0" marginheight="0" marginwidth="0">Loading.</iframe>
 
 <br>
 

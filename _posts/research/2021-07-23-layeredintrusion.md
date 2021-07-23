@@ -30,7 +30,7 @@ taxonomy: research
 
 <br>
 
-<iframe width="700" height="500" frameborder="0" scrolling="no" src="https://cf-my.sharepoint.com/personal/smithwd1_cardiff_ac_uk/_layouts/15/Doc.aspx?sourcedoc={979f3efa-ecc5-4db9-9270-3b2e564f4d75}&action=embedview&ActiveCell='Table'!A1&wdHideGridlines=True&wdHideHeaders=True&wdInConfigurator=True"></iframe>
+<iframe width="700" height="600" frameborder="0" scrolling="no" src="https://cf-my.sharepoint.com/personal/smithwd1_cardiff_ac_uk/_layouts/15/Doc.aspx?sourcedoc={979f3efa-ecc5-4db9-9270-3b2e564f4d75}&action=embedview&ActiveCell='Table'!A3&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&wdInConfigurator=True"></iframe>
 
 <br>
 

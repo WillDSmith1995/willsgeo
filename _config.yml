@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : "@ExplorePGE"
+  username               : "@DrWDSmith"
 facebook:
   username               :
   app_id                 :
@@ -95,12 +95,12 @@ analytics:
 author:
   name             : "William Daniel Smith"
   avatar           : "/images/avatar.jpg"
-  bio              : "A PhD researcher based at **Cardiff University**, reading in geology, geochemistry, and exploration."
-  location         : "Cardiff, United Kingdom"
+  bio              : "A postdoctoral researcher based at **Carleton University**, working in igneous intrusions and their mineral deposits."
+  location         : "Ottawa, Canada"
   email            : "smithwd1@cadiff.ac.uk"
   github           : "WillDSmith1995"
   linkedin         : "william-daniel-smith-675930102 "
-  twitter          : "ExplorePGE"
+  twitter          : "DrWDSmith"
   researchgate     : "researchgate.net/profile/William_Smith94"
   instagram        : "wills.geo"
   

@@ -93,6 +93,6 @@ taxonomy: research
 sulphide occurrences. It is proposed that these oxides represent magnetite that has precipitated from evolved mss and interacted with Fe and Ti in the silicate magma. In contrast, the composition of Fe-Ti oxides in the barren titanomagnetite and granophyric gabbros may be indicative of Fe-Ti-rich and Si-rich silicate liquid immiscibility, as evidenced by their knife-sharp contacts and that the oxide trace element are distributed according to Fe-Ti-rich/Si-rich liquid partition coefficients. It is proposed that liquid immiscibility may occur in strongly differentiated sills as thin as 200 m, if nested and insulated by antecedent intrusions. Further detail on this subject can be found in a forthcoming publication.</ul>
 
 <figure>
-<img src="/willsgeo/images/apatite.png" alt="The composition of apatite and Fe-Ti oxides in magmatic sulphide occurrences of the Montagnais Sill Complex" style="width:100%">
+<img src="/willsgeo/images/apatite.jpg" alt="The composition of apatite and Fe-Ti oxides in magmatic sulphide occurrences of the Montagnais Sill Complex" style="width:100%">
   <figcaption>Fig. 8. The composition of apatite in magmatic sulphide occurrences of the Montagnais Sill Complex</figcaption>
 </figure>

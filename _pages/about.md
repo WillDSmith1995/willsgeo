@@ -21,6 +21,7 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <li> Labrador Trough, Canada </li>
 <li> Troodos Ophiolite, Cyprus </li>
 <li> Iberian Massif, Portugal </li>
+<li> Lac des Iles, Canada </li>
 </ul>
 <ul> I have experience in a variety of fieldwork methods, including: (i) traditional and digital mapping, (ii) collecting structural measurements, (iii) portable XRF, (iv) rock, channel, and soil sampling, and drill-core logging. In addition, I am proficient in ArcGIS, QGIS, and GCDKit, with a working knowledge of ioGAS, MapInfo, Leapfrog, and Micromine. </ul>
 </details>
@@ -38,7 +39,8 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 </details>
 
 <details>
-<summary>Education</summary>
+<summary>Academia Record</summary>
+<ul> <strong>2021-2023:</strong> Postdoctoral Researcher at Carleton University </ul>
 <ul> <strong>2017-2021:</strong> PhD Magmatic sulphides at Cardiff University </ul>
 <ul> <strong>2016-2017:</strong> MRes Granite-related ore systems at the University of Portsmouth </ul>
 <ul> <strong>2013-2016:</strong> BSc (hons) Geology at University of Portsmouth </ul>
@@ -73,6 +75,8 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 
 <details>
 <summary>List of publications</summary>
+<ul><strong>WD Smith</strong>, WD Mair, JC Andersen, DD Muir, ET Mansur, and I Bliss.  Accessory phase perspectives for ore-forming processes and magmatic sulphide exploration in the Labrador Trough, northern Québec, Canada (2022). Canadian Journal of Earth Sciences.</ul>
+<ul><strong>WD Smith</strong, WD Maier, and I. Bliss. Distribution of noble metals in magmatic sulfide occurrences in the Montagnais Sill Complex, Labrador Trough, Canada (2021). The Canadian Mineralogist 59(6).</ul>
 <ul><strong>WD Smith</strong> and WD Maier. The geotectonic setting, age and mineral deposit inventory of global layered intrusions (2021) Earth-Science Reviews, 103736</ul>
 <ul><strong>WD Smith</strong>, WD Maier, SJ Barnes, G Moorhead, D Reid, and B Karykowski. Element mapping the Merensky Reef of the Bushveld Complex (2021). Geoscience Frontiers 12 (3), 101101</ul>
 <ul>WD Maier, SJ Barnes, D Muir, D Savard, Y Lahaye, and <strong>WD Smith</strong>. Formation of Bushveld anorthosite by reactive porous flow (2021). Contributions to Mineralogy and Petrology 176 (1), 1-12.</ul>

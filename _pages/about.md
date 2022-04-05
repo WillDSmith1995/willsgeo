@@ -7,13 +7,11 @@ header:
   image: "/images/nova.jpg"
 ---
 
-I am a geologist currently reading for a PhD in exploration geology at the [School of Earth and Environmental Sciences of Cardiff University](https://www.cardiff.ac.uk/people/research-students/view/1010781-smith-william) in the UK. My research focusses on the formation of magmatic and hydromagmatic ore deposits, particularly magmatic Ni-Cu-PGE sulphide deposits and granite-related W-Sn-Cu deposits. 
-
-I am an economic geologist and researcher, with interests in magmatic and magmatic-hydrothermal ore systems. Born in Essex and raised in Cornwall (United Kingdom), I became interested in geosciences upon completion of my chemistry and geography A-levels at Callington College. I completed a Bachlors degree with honors in geology and a Masters degree in igneous petrology and ore deposit geology at the University of Portsmouth between 2013 and 2017. Following this, I went on to read for a PhD in igneous petrology and magmatic sulphide deposits at Cardiff University from 2017 to 2021.
+An economic geologist and igneous petrologist with an interesting in magmatic and magmatic-hydrothermal ore systems. Particular interests include layered intrusions and their ore deposits, Archaean geodynamics, and Variscan W-Sn-Cu-mineralised granites.
 
 <details>
 <summary>Fieldwork Experience</summary>
-<ul> During my time studying Earth sciences, I have conducted fieldwork in Europe, North America, South America, and Africa, from tundra to dessert to and tropical ecosystems. Some highlights include: </ul>
+<ul> I have conducted fieldwork in the following locations: </ul>
 <ul>
 <li> Quadrilatero Ferrifero, Brazil </li>
 <li> Cornubian Batholith, Cornwall </li>
@@ -23,12 +21,12 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <li> Iberian Massif, Portugal </li>
 <li> Lac des Iles, Canada </li>
 </ul>
-<ul> I have experience in a variety of fieldwork methods, including: (i) traditional and digital mapping, (ii) collecting structural measurements, (iii) portable XRF, (iv) rock, channel, and soil sampling, and drill-core logging. In addition, I am proficient in ArcGIS, QGIS, and GCDKit, with a working knowledge of ioGAS, MapInfo, Leapfrog, and Micromine. </ul>
+<ul> I have experience in a variety of fieldwork methods, including: (i) traditional and digital mapping; (ii) collecting structural measurements; (iii) portable XRF; (iv) rock, channel, and soil sampling; and (v) drill-core logging. In addition, I am proficient in ArcGIS, QGIS, and GCDKit, with a working knowledge of ioGAS, MapInfo, Leapfrog, and Micromine. </ul>
 </details>
 
 <details>
 <summary>Analytical Experience</summary>
-<ul> Modern research in geosciences requires a holistic and multi-scale approach to tackle unanswered questions. I have been fortunate to work in academic and commercial laboratories and currently have experience in the following methods:</ul>
+<ul> I have experience in the following analytical methods:</ul>
 <ul>
 <li> Optical microscopy (transmitted and reflected light) </li>
 <li> Electron microscopy (CL, BSE, SEM-EDS, SEM-WDS, EPMA, & EBSD) </li>
@@ -54,12 +52,15 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <ul> <strong>Summer 2016:</strong> Chemical Engineer at <a id="raw-url" href="https://www.grindingsolutions.com/">Grinding Solutions</a></ul>
 </details>
 
+
 <details>
 <summary>Memberships & societies</summary>
-<ul> Since 2016, I have been a student representative of the <a id="raw-url" href="https://www.segweb.org/">Society of Economic Geologists</a> at Cardiff University, the University of Portsmouth, and for the United Kingdom. This is a brilliant society, which has many useful resources, fieldtrips, and funding opportunities, together with an expansive network of students and professionals. In addition, I have been a student editor for the Applied Mineralogist of the <a id="raw-url" href="https://www.minersoc.org/amg.html">Applied Mineralogy Group</a>, a quarterly bulletin on all things mineralogy. </ul> 
-
-<ul> Other societies I have been involved in include the <a id="raw-url" href="https://www.iom3.org/">Institute or Materials, Minerals & Mining (IOM3)</a>, the <a id="raw-url" href="https://geologistsassociation.org.uk/">Geologists Association</a>, the <a id="raw-url" href="https://www.geolsoc.org.uk/geochemistry">Geochemistry Group</a>, and the <a id="raw-url" href="https://www.minersoc.org/#/ms-5/2">Mineralogical Society</a>.</ul>
+<ul> Society of Economic Geologists </ul>
+<ul> Applied Mineralogy Group (former Student Editor) </ul>
+<ul> Ussher Society </ul>
+<ul> Geologists' Association </ul>
 </details>
+
 
 <details>
 <summary>Notable awards, grants, & funding</summary>
@@ -76,7 +77,8 @@ I am an economic geologist and researcher, with interests in magmatic and magmat
 <details>
 <summary>List of publications</summary>
 <ul><strong>WD Smith</strong>, WD Mair, JC Andersen, DD Muir, ET Mansur, and I Bliss.  Accessory phase perspectives for ore-forming processes and magmatic sulphide exploration in the Labrador Trough, northern Québec, Canada (2022). Canadian Journal of Earth Sciences.</ul>
-<ul><strong>WD Smith</strong, WD Maier, and I. Bliss. Distribution of noble metals in magmatic sulfide occurrences in the Montagnais Sill Complex, Labrador Trough, Canada (2021). The Canadian Mineralogist 59(6).</ul>
+<ul><strong>WD Smith</strong, WD Maier, and I Bliss. Distribution of noble metals in magmatic sulfide occurrences in the Montagnais Sill Complex, Labrador Trough, Canada (2021). The Canadian Mineralogist 59(6).</ul>
+<ul><strong>WD Smith</strong, WD Maier, L Martin, and I Bliss. In situ multiple sulfur isotope and S/Se composition of magmatic sulfide occurrences in the Labrador Trough, northern Québec. Economic Geology, 116(7), pp.1669-1686.</ul>
 <ul><strong>WD Smith</strong> and WD Maier. The geotectonic setting, age and mineral deposit inventory of global layered intrusions (2021) Earth-Science Reviews, 103736</ul>
 <ul><strong>WD Smith</strong>, WD Maier, SJ Barnes, G Moorhead, D Reid, and B Karykowski. Element mapping the Merensky Reef of the Bushveld Complex (2021). Geoscience Frontiers 12 (3), 101101</ul>
 <ul>WD Maier, SJ Barnes, D Muir, D Savard, Y Lahaye, and <strong>WD Smith</strong>. Formation of Bushveld anorthosite by reactive porous flow (2021). Contributions to Mineralogy and Petrology 176 (1), 1-12.</ul>

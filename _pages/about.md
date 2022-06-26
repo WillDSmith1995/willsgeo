@@ -81,7 +81,7 @@ An economic geologist and igneous petrologist with an interesting in magmatic an
 <summary>List of publications</summary>
 <ul><strong>WD Smith</strong>, WD Mair, JC Andersen, DD Muir, ET Mansur, and I Bliss.  Accessory phase perspectives for ore-forming processes and magmatic sulphide exploration in the Labrador Trough, northern Quebec, Canada (2022). Canadian Journal of Earth Sciences.</ul>
 <ul><strong>WD Smith</strong, WD Maier, and I Bliss. Distribution of noble metals in magmatic sulfide occurrences in the Montagnais Sill Complex, Labrador Trough, Canada (2021). The Canadian Mineralogist 59(6).</ul>
-<ul><strong>WD Smith</strong, WD Maier, L Martin, and I Bliss. In situ multiple sulfur isotope and S/Se composition of magmatic sulfide occurrences in the Labrador Trough, northern Quebec. Economic Geology, 116(7), pp.1669-1686.</ul>
+<ul><strong>WD Smith</strong>, WD Maier, L Martin, and I Bliss. In situ multiple sulfur isotope and S/Se composition of magmatic sulfide occurrences in the Labrador Trough, northern Quebec. Economic Geology, 116(7), pp.1669-1686.</ul>
 <ul><strong>WD Smith</strong> and WD Maier. The geotectonic setting, age and mineral deposit inventory of global layered intrusions (2021) Earth-Science Reviews, 103736</ul>
 <ul><strong>WD Smith</strong>, WD Maier, SJ Barnes, G Moorhead, D Reid, and B Karykowski. Element mapping the Merensky Reef of the Bushveld Complex (2021). Geoscience Frontiers 12 (3), 101101</ul>
 <ul>WD Maier, SJ Barnes, D Muir, D Savard, Y Lahaye, and <strong>WD Smith</strong>. Formation of Bushveld anorthosite by reactive porous flow (2021). Contributions to Mineralogy and Petrology 176 (1), 1-12.</ul>
@@ -91,6 +91,7 @@ An economic geologist and igneous petrologist with an interesting in magmatic an
 Zircon perspectives on the age and origin of evolved S-type granites from the Cornubian Batholith, Southwest England. (2019). Lithos 336, 14-26.</ul>
 </details>
 
+<br>
 
 <a id="raw-url" href="https://github.com/WillDSmith1995/willsgeo/blob/master/assets/CV_WDS.pdf">See my CV here</a>
 

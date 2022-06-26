@@ -37,13 +37,7 @@ mineralisation. In a study <a id="raw-url" href="https://www.sciencedirect.com/s
 
 ## W-Sn-Cu mineralisation
   
-<ul>Granite plutons and stocks of the Cornubian Batholith are known for world-class W-Sn mineralisation, which typically manifests itself as greisen-bordered stockworks (such as Hemerdon and Cligga Head) or as polymetallic lode systems that protrude from granites (such as those in the Camborne-Redruth area and Redmoor). I have been part of a geological team working on deciphering the formation of world-class grisen-bordered tungsten stockworks at Hemerdon (Drakeland's Mine) located south of the Dartmoor pluton. </ul>
-
-<figure>
-<img src="/willsgeo/images/kithill.jpg" alt="Kit Hill" style="width:100%">
-  <figcaption>Fig. 3. Geology of Kit Hill region and location of the Redmoor prospect. </figcaption>
-</figure>
-  
+<ul>Granite plutons and stocks of the Cornubian Batholith are known for world-class W-Sn mineralisation, which typically manifests itself as greisen-bordered stockworks (such as Hemerdon and Cligga Head) or as polymetallic lode systems that protrude from granites (such as those in the Camborne-Redruth area and Redmoor). I have been part of a geological team working on deciphering the formation of world-class greisen-bordered tungsten stockworks at Hemerdon (Drakeland's Mine) located south of the Dartmoor pluton. </ul>
 
 <ul>Since 2016, I have been involved in exploration at the <a id="raw-url" href="https://www.cornwallresources.com/the-redmoor-project">Redmoor W-Sn-Cu prospect</a> located in Callington (the lodes actually run underneath my childhood home!). Of note at Redmoor, is the W-Sn-Cu-bearing sheeted vein system that apparently protrudes westward from the local Kit Hill granite (Fig. 3). Readers are referred to the link above for details on the Redmoor prospect direct from the source! I was involved in logging core, organising the drill programmes, and interpreting the geology of the region during an internship with Cornwall Resources (the onsite company at Redmoor). Furthermore, I co-supervised a Masters project at the University of Portsmouth that aimed to revise the paragenesis of the Redmoor lodes using optical and electron microscopy, mineral chemistry, and Pb isotopes.</ul>
 

@@ -103,6 +103,7 @@ author:
   twitter          : "DrWDSmith"
   researchgate     : "researchgate.net/profile/William_Smith94"
   instagram        : "wills.geo"
+  ORCID            : "0000-0002-6523-7864"
   
   links:
     - label: "Email"
@@ -223,6 +224,7 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
+
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-maps

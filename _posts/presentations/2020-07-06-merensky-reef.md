@@ -1,7 +1,7 @@
 ---
-title: "Element mapping the Merensky Reef, Bushveld Complex: Rusternburg and Northam"
+title: "Element mapping the Merensky Reef, Bushveld Complex: Rustenburg and Northam"
 date: '2020-07-06'
-excerpt: magmatic sulphides, Canada
+excerpt: magmatic sulphides
 header:
   image: /images/dwars.jpg
 tags:

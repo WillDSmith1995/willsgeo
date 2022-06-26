@@ -1,8 +1,28 @@
+
 ---
-layout: archive
-author_profile: true
-header:
-  image: "/images/bushveld.jpg"
+layout: layout
+title: "Jonathan Maltz - Software Developer"
 ---
 
-index.html
+
+
+<section class="content">
+
+	<h2>Hey there!</h2>
+    <p>Hiya! I'm Jonathan Maltz, and this is my personal website.  I'm a
+    software developer currently working at Stripe building tools to help
+    fight fraud.  I also frequently geek out about engineering culture,
+    process, and how to make teams be more effective.  Over the past few years,
+    I've ocassionally written down things I've learned that I hope others
+    find useful.  Those are collected on this website.	</p>
+	<hr />
+	
+		
+	{% for page in site.posts  %}
+	<h3><a href="{{ page.url }}">{{ page.title }}</a></h3>
+	{{ page.excerpt }} <a href="{{ page.url }}">Continue reading</a>
+	<hr />
+	{% endfor %}
+
+
+</section>

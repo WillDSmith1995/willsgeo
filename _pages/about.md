@@ -39,8 +39,8 @@ An economic geologist and igneous petrologist with an interesting in magmatic an
 <details>
 <summary>Academia Record</summary>
 <ul> <strong>2021-2023:</strong> Postdoctoral Researcher at Carleton University </ul>
-<ul> <strong>2017-2021:</strong> PhD Magmatic sulphides at Cardiff University </ul>
-<ul> <strong>2016-2017:</strong> MRes Granite-related ore systems at the University of Portsmouth </ul>
+<ul> <strong>2017-2021:</strong> PhD Magmatic ore deposits at Cardiff University </ul>
+<ul> <strong>2016-2017:</strong> MRes Ore deposits at the University of Portsmouth </ul>
 <ul> <strong>2013-2016:</strong> BSc (hons) Geology at University of Portsmouth </ul>
 <ul> <strong>2011-2013:</strong> A Levels at Callington Community College (inc. Chemistry, Geography, and Biology) </ul>
 </details>
@@ -68,7 +68,7 @@ An economic geologist and igneous petrologist with an interesting in magmatic an
 <ul> <strong>2017/18:</strong> SEG Hugh McKinstry fieldwork grant worth 2,500 GBP</ul>
 <ul> <strong>2016/17:</strong> Mineralogical Society postgraduate bursary worth 500 GBP</ul>
 <ul> <strong>2017/18:</strong> SEG Steward R. Wallace fieldwork grant worth 4,000 GBP</ul>
-<ul> <strong>2017/21:</strong> <a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/">GW4+ NERC DTP</a> research grant with additional CASE funding.</ul>
+<ul> <strong>2017/21:</strong> <a id="raw-url" href="https://nerc.ukri.org/funding/available/postgrad/responsive/dtp/">GW4 NERC DTP</a> research grant with additional CASE funding.</ul>
 <ul> <strong>2019/20:</strong> Graduate tutor of the year finalist at Cardiff University</ul>
 <ul> <strong>2020/21:</strong> 600 GBP bursary recipient from the Geologists' Association</ul>
 <ul> <strong>2021/22:</strong> Earth science panel judge for the Global Undergraduate Awards</ul>

@@ -95,14 +95,12 @@ analytics:
 author:
   name             : "William Daniel Smith"
   avatar           : "/images/avatar.jpg"
-  bio              : "A postdoctoral researcher based at **Carleton University**, working on igneous intrusions and their mineral deposits."
+  bio              : "Researcher in igneous petrology and economic geology.."
   location         : "Ottawa, Canada"
   email            : "willdsmith1995@gmail.com"
-  github           : "WillDSmith1995"
   linkedin         : "william-daniel-smith-675930102 "
   twitter          : "DrWDSmith"
   researchgate     : "researchgate.net/profile/William_Smith94"
-  instagram        : "wills.geo"
   ORCID        : "0000-0002-6523-7864"
   
   links:
@@ -118,12 +116,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-fw"
        #url: "https://www.linkedin.com/in/william-daniel-smith-675930102/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-       #url: "https://github.com/WillDSmith1995"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-       #url: "https://instagram.com/willsgeo"
 
 # Site Footer
 footer:

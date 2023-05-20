@@ -9,4 +9,4 @@ header:
   image: "/images/landscape.jpg"
 ---
   
-Oral and poster presentations given at conferences, workshops, and seminars. 
+Oral and poster presentations.

@@ -9,4 +9,4 @@ header:
   image: "/images/resource.jpg"
 ---
 
-Some useful resources and workbooks!
+Links to YouTube videos.

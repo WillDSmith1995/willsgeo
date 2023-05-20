@@ -11,4 +11,4 @@ An economic geologist and igneous petrologist with an interest in magmatic and m
 
 <a id="raw-url" href="https://github.com/WillDSmith1995/willsgeo/blob/master/assets/CV_WDS.pdf">Click here to download my CV</a>
 
-<a id="raw-url" href="https://scholar.google.com/citations?user=icYh2GQAAAAJ&hl=en">See my list of publications here or via ResearchGate</a>.</ul> 
+<a id="raw-url" href="https://scholar.google.com/citations?user=icYh2GQAAAAJ&hl=en">See my list of publications here or via ResearchGate</a>
